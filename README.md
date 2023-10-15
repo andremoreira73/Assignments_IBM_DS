@@ -1,7 +1,9 @@
 # Assignments_IBM_DS
-Repo to share assignments from the IBM Data Science Professional Certificate
+This repo was part of the IBM Data Science Professional certification program
 
 https://www.coursera.org/professional-certificates/ibm-data-science
+
+I uploaded here some assignments as part of the courses. If you want to lern more, reach out!
 
 10 Courses:
 1.  What is Data Science?
